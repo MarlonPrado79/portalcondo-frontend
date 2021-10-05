@@ -1,0 +1,7 @@
+{
+  "name": "PortalCondo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
